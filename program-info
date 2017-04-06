@@ -1,0 +1,10 @@
+{
+   "NSP Staging Utility":{
+      "available-versions":"v1.0.1,v1.0.2",
+      "description":"a staging program"
+   },
+   "Otis":{
+      "available-version":"v1.0.1,v1.0.3",
+      "description":"an awesome thing"
+   }
+}
